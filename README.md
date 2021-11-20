@@ -22,4 +22,4 @@ The training is done with two chest x-rays datasets: [Shenzen & Montogomery CXR 
 Python 3.7, Tensorflow 2.0+
 
 ## Results
-Dice coefficient can reach up to 94-95%.
+Dice coefficient can reach up to 93-94%.
